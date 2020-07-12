@@ -1,7 +1,7 @@
 # SmartGrid
 Uses solidity programming to simulate a basic smart grid application on BlockChain. Explanation of the project available in the PowerPoint avaiable.
 
-Developed the project in Greece. Only developed the Backend for the project.
+Developed the project in Athens Information Technology , Greece as a part of a Undergraduate Fellowship Program. Only developed the Backend for the project.
 
 ## How to run
 
